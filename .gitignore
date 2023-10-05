@@ -1,3 +1,4 @@
 .thesiscode
 work/original/*
-DWT
+work/compressed/DWT
+work/compressed/DCT
